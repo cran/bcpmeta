@@ -1,0 +1,14 @@
+9701c277e6d4af33533f57a43b40303c *DESCRIPTION
+2e66a1262a67ffbf662920766b981264 *NAMESPACE
+e47ef97e96a8121db53c3c1a98ee2546 *R/bcpmeta-internal.R
+871dc12067a9d2ad4c1fa11d3d12a3bd *R/bcpmeta.model.R
+1cea6bb494d9c5c892f1d9ec7669f690 *R/bcpmeta.parameters.R
+92921c1e061654311c9a28d36ed99d10 *R/plots.R
+c73a241ccee9e925dd9a0eb7e62d53ae *R/simgen.R
+1874265f73715e2ab0116feb23bf7993 *R/supportings.R
+cd7caca52dda00fd84f068529433f51f *man/bcpmeta-package.Rd
+49d53d5c88b39a0c239d908bf3ce5f92 *man/bcpmeta.model.Rd
+107f872cf1dccadcdf591051b97ad2a9 *man/bcpmeta.parameters.Rd
+1fc712b586082ea1b16c67c933c53974 *man/cp.plot.Rd
+2d78309a74cbf05d612270d72fb55105 *man/marginal.plot.Rd
+5eb3710647ba785e12f0749dd37691c7 *man/simgen.Rd

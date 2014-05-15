@@ -1,0 +1,4 @@
+#export(bcpmeta.model, bcpmeta.parameters)
+export(bcpmeta.model, bcpmeta.parameters, marginal.plot, cp.plot, simgen)
+import(mvtnorm)
+#exportPattern("^[[:alpha:]]+")
